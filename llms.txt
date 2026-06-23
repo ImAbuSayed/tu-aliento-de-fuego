@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-aliento-de-fuego/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Tu aliento de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-de-fuego/) |
+| **Get License** | [Get License For Tu aliento de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-de-fuego/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4166)
 
 ---
 
