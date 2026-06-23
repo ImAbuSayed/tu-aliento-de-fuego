@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu aliento de fuego
+
+This log tracks the cryptographic history and versioning for the song **Tu aliento de fuego** (tu-aliento-de-fuego).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T13:19:07.333912 | `v1` | `709a233669b43d5620135f901d3ec03865ab72b13c4b416999ce5462642c3e1b` | `a34313ddac837b9d50d1d0e44f584c46d4ccba3cfac1df483f0aa240faf21451` | `2026-06-23_tu-aliento-de-fuego-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
