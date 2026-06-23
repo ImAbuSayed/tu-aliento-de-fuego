@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Siento tu aliento de fuego quemando mi piel
+> Una noche en Madrid y ya me sabes a miel
+> Acércate un poco, mami, rompe la tensión
+> Tú tienes la llave de esta habitación
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
